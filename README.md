@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Joseph Ayodele Aderemi
 
-<!--
-**Joseph-Analytics/Joseph-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** with a strong background in Management, currently transitioning into data analytics through projects and self-learning.
 
-Here are some ideas to get you started:
+### 🔧 Tools & Skills:
+- SQL (MySQL-Workbench, PostgreSQL)
+- Microsoft Excel (Advanced)
+- Power BI
+- Data Cleaning & Visualization
+- Business Insights & Storytelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects:
+Coming soon: Sales Dashboard | Customer Order Analysis | Marketing Insights
+
+### 📫 How to reach me:
+- Email: josephaderemi247@gmail.com
+- LinkedIn: www.linkedin.com/in/joseph-aderemi-21044926b
